@@ -60,3 +60,13 @@ Ensure all dependencies are installed and configured as per the script requireme
 
 ### Acknowledgement
 This project is forked from DIGIMON https://github.com/JayLZhou/GraphRAG.
+
+### Citation
+```
+@article{zheng2025less,
+  title={Less is More: Denoising Knowledge Graphs For Retrieval Augmented Generation},
+  author={Zheng, Yilun and Yang, Dan and Li, Jie and Shang, Lin and Chen, Lihui and Xu, Jiahao and Luan, Sitao},
+  journal={arXiv preprint arXiv:2510.14271},
+  year={2025}
+}
+```
